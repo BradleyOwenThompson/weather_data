@@ -1,15 +1,5 @@
+Welcome to this project. The purpose of the project was to explore a couple of technologies that have interested me. Feel free to browse.
 
+The project takes weather information from Weather API.
 
-## Other Ideas
-- Alerts: Notify residents of danger
-- Pollution: Are residents exposed to more pollutants than others?
-
-
-- Used black formatter
-- Used material mkdocs
-- used mypy 
-- used requests
-- used dotenv
-
-use mkdocs serve to view docs
-use my <object> to test the file
+Documentation can be found here: https://weather-data-89g.pages.dev/
