@@ -1,6 +1,6 @@
 site_name: Weather Data
 
-site_url: https://mydomain.org/mysite
+site_url: https://weather-data-89g.pages.dev/mysite/
 theme:
   name: material
 plugins:
